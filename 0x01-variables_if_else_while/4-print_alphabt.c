@@ -1,7 +1,8 @@
 #include <stdio.h>
-/*
- * Write a program that prints the alphabet
- * in lowercase, except e and q
+/**
+ * main - Prints the alphabet except the letters q and e.
+(*
+ * Return: 0 on success
  */
 int main(void)
 {

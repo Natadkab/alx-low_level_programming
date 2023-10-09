@@ -1,7 +1,9 @@
 #include <stdio.h>
-/*
- * Write a program that prints all single digit number
- * by using putchar and not using char
+/**
+ * main - prints numbers 0-9 without using char or printf/puts,
+ * and putchar 2x max
+(*
+ * Return: 0 on success
  */
 int main(void)
 {

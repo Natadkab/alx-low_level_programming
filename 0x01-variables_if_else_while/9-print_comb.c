@@ -1,8 +1,8 @@
 #include <stdio.h>
-/*
- * Write a program that prints all possible
- * combinations of single-digit numbers.
- * Numbers must be separated by ',' followed by a space
+/**
+ * main - Entery point
+ *
+ * Return: Always 0
  */
 int main(void)
 {
@@ -10,7 +10,7 @@ int main(void)
 
 	while (x <= '9')
 	{
-		putchar(i);
+		putchar(x);
 
 		if (x != '9')
 		{
