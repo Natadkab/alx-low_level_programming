@@ -1,7 +1,8 @@
 #include <stdio.h>
-/*
- * Write a program that prints the alphabet
- * in lowercase, followed by a new line.
+/**
+ * main - prints the alphabet in lowercase.
+(*
+ * Return: 0 on success
  */
 int main(void)
 {
