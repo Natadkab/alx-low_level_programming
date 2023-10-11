@@ -1,8 +1,8 @@
 #include "main.h"
 /**
- * print_last_digit - entry point
- *
- * Return: calue of the last digit of number
+ *print_last_digit - entry point
+ *@n: the number to be treated
+ *Return: calue of the last digit of number
  */
 int print_last_digit(int n)
 {

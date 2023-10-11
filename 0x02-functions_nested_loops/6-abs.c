@@ -1,8 +1,8 @@
 #include "main.h"
 /**
  * _abs - entry point
- *
- * Return - Absolute value or zero
+ * @c: the numbe to be computed
+ * Return: Absolute number or zero
  */
 int _abs(int c)
 {
